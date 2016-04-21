@@ -13,10 +13,11 @@ img.shadow
 	img{
 		display: none;
 	}
-	p, h4, h5, h6 {
-		line-height: 70%;
+	h4, h5, h6 {
+		line-height: 50%;
 
 	}
+
 }
 
 /* Note: Design for a width of 1400px */
